@@ -1,8 +1,8 @@
 {
     "ios": {
         "hostos": ["darwin"],
-        "url": "https://git-wip-us.apache.org/repos/asf?p=cordova-ios.git",
-        "version": "~4.5.1",
+        "url": "https://github.com/renanccastro/cordova-ios.git#4.5.x",
+        "version": "~4.5.6-dev",
         "apiCompatibleSince": "4.0.0",
         "deprecated": false
     },
